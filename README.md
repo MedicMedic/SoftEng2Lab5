@@ -54,6 +54,9 @@ public class OrderTest {
     order.generateInvoice("order_123.pdf");
     order.sendEmailNotification("johndoe@example.com");
   }
-}```
+}
+```
+# UML Diagram
 
+![Blank diagram (3)](https://github.com/MedicMedic/SoftEng2Lab5/assets/142379309/b707ad17-a902-46fa-a6ed-2f7d50bdce41)
 
